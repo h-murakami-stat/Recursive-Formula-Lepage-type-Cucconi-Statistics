@@ -46,7 +46,7 @@ end_time <- Sys.time()
 }
 
 
-### When N is Even
+### When N is ODD
 Rec.Lepage.Type.ODD <- function(m1, m2, alpha) {
 start_time <- Sys.time()
 
